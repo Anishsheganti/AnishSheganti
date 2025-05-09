@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm [Anish kumar sheganti]
 
-<!--
-**Anishsheganti/AnishSheganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Engineer with 3.5+ years of experience at TCS, building clean, scalable, and responsive user interfaces. I'm passionate about React, TypeScript, and performance-optimized UIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- 💻 **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- ⚛️ **Frameworks:** React.js, Next.js, Tailwind CSS
+- 🛠️ **Tools:** Git, GitHub, VS Code, Figma
+- 🌐 **Other:** Responsive Design, REST APIs, Agile/Scrum
+
+---
+
+### 📈 Currently Working On
+- Creating high-quality frontend projects to showcase on GitHub
+- Preparing for remote frontend roles with top product-based companies
+
+---
+
+### 📫 Let's Connect
+- 📧 [anish.sheganti0007@gmail.com]
+  
+
